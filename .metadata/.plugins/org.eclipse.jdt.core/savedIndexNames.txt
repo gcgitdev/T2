@@ -1,0 +1,1 @@
+INDEX VERSION 1.126+C:\ampC\B_git_test\ouyzhu\Workspace\.metadata\.plugins\org.eclipse.jdt.core
